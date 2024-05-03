@@ -1,0 +1,115 @@
+.header{
+	display: flex;
+	justify-content: space-between;
+}
+.cb{
+	display: flex;
+	gap: 10px;
+}
+h1{
+	color: orangered;
+	font-size: 50px;
+	/*height: min-content;*/
+	line-height: 5px;
+}
+body{
+	background-image: url("nfig1.jpg");
+}
+.btn{
+	background-color: orangered;
+	color: white;
+	/*padding: 10px;*/
+	border: none;
+	border-radius: 5px;
+	height: min-content;
+}
+.txt1 h1{
+	color: white;
+	margin: 0;
+    font-size: 2rem;
+    font-weight: 700;
+    text-align: center;
+}
+.txt1 p{
+	margin: 1rem 0 0;
+    font-size: 1.125rem;
+    color: white;
+    font-weight: 400;
+    text-align: center;
+}
+.txt1 h4{
+	margin: 0;
+    font-size: 1.125rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: white;
+    text-align: center;
+}
+inpt
+{
+	line-height: 1.5;
+    font-size: 1rem;
+    width: 100%;
+    color: inherit;
+    -webkit-filter: opacity(0%);
+    filter: opacity(0%);
+    padding-right: 1rem;
+    padding-left: 1rem;
+    padding-bottom: 0.25rem;
+    padding-top: 1.25rem;
+    height: 50px;
+}
+.sl{
+	align-items: center;
+	box-sizing: border-box;
+	justify-content: center;
+    letter-spacing: normal;
+    line-height: 1;
+    user-select: none;
+    border: 0;
+    border-radius: 0.25rem;
+    margin-top: 1rem;
+    height: 50px;
+    background-color: orangered;
+    color: white;
+    cursor: pointer;
+    fill: currentColor;
+    position: relative;
+}
+.etv
+{
+	    margin: 0;
+    font-size: 2rem;
+    font-weight: 700;
+    color: white;
+    /*align-items: center;*/
+}
+.dys{
+	color: white;
+	height: 100%;
+	box-sizing: border-box;
+    min-height: auto;
+    padding: 3.5rem 0;
+	/*align-items: center;*/
+}
+.we{
+	color: white;
+}
+h3{
+	margin: 0;
+    font-size: 1.125rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: white;
+}
+footer div{
+	background-color: black;
+	color: white;
+}
+footer .fb
+{
+	margin-top: 10px;
+}
+footer p{
+	color: white;
+}
